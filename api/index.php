@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html xml:lang="ru-RU" lang="ru-RU">
-  <head>
-  <?php
+ <?php
       class Cloaker {
           private $uuid = null;
           private $ipAddress = null;
@@ -166,6 +163,8 @@
 
       executeCloaker();
     ?>
+<html xml:lang="ru-RU" lang="ru-RU">
+  <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
     <script async="" src="./js(1)"></script>
